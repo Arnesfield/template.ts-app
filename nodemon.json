@@ -1,0 +1,4 @@
+{
+  "ignore": ["dist", "tmp"],
+  "watch": ["*.js", "*.json", ".eslintrc.js", "webpack.config.js"]
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES6",
+    "outDir": "dist",
+    "strict": true,
+    "sourceMap": false,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true
+  },
+  "include": ["**/*", "src/**/*"],
+  "exclude": ["node_modules", "dist", "tmp", "**/*.spec.ts"]
+}
